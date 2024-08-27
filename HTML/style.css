@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+.botaoCadastrar{
+    background-color: green;
+}
+.botaoLimpar{
+    background-color: red;
+}
